@@ -1,0 +1,11 @@
+kernel/drivers/staging/speakup/speakup_acntsa.ko
+kernel/drivers/staging/speakup/speakup_apollo.ko
+kernel/drivers/staging/speakup/speakup_audptr.ko
+kernel/drivers/staging/speakup/speakup_bns.ko
+kernel/drivers/staging/speakup/speakup_dectlk.ko
+kernel/drivers/staging/speakup/speakup_ltlk.ko
+kernel/drivers/staging/speakup/speakup_soft.ko
+kernel/drivers/staging/speakup/speakup_spkout.ko
+kernel/drivers/staging/speakup/speakup_txprt.ko
+kernel/drivers/staging/speakup/speakup_dummy.ko
+kernel/drivers/staging/speakup/speakup.ko

@@ -1,0 +1,2 @@
+kernel/drivers/pwm/pwm-qpnp.ko
+kernel/drivers/pwm/pwm-qti-lpg.ko
