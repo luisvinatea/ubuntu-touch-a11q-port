@@ -1,0 +1,3 @@
+[submodule "kernel-clean"]
+  path = kernel-clean
+  url = https://gitlab.com/luisvinatea/kernel-sm-a115m-latin-rr-opensource.git
