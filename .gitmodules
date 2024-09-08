@@ -1,3 +1,6 @@
 [submodule "github-clean"]
 	path = github-clean
 	url = https://github.com/luisvinatea/ubuntu-touch-a11q-port.git
+[submodule "kernel-clean"]
+	path = kernel-clean
+	url = https://gitlab.com/luisvinatea/kernel-sm-a115m-latin-rr-opensource.git
