@@ -65,3 +65,9 @@ Finally, move the compiled `img2simg` binary to `/usr/local/bin` so it can be ac
 ```bash
 sudo mv img2simg /usr/local/bin/
 ```
+## Kernel Source
+
+For the clean kernel source with Halium patches, please visit our [GitLab repository](https://gitlab.com/luisvinatea/kernel-sm-a115m-latin-rr-opensource).
+
+This repository focuses on the Ubuntu Touch porting process for the Samsung Galaxy A11q.
+
