@@ -71,3 +71,4 @@ For the clean kernel source with Halium patches, please visit our [GitLab reposi
 
 This repository focuses on the Ubuntu Touch porting process for the Samsung Galaxy A11q.
 
+Test sync update
