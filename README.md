@@ -71,10 +71,3 @@ sudo mv img2simg /usr/local/bin/
 For the clean kernel source with Halium patches, please visit our [GitLab repository](https://gitlab.com/luisvinatea/kernel-sm-a115m-latin-rr-opensource).
 
 This repository focuses on the Ubuntu Touch porting process for the Samsung Galaxy A11q.
-
-Test sync update
-=======
-## Ubuntu Touch Porting Process
-
-This repository contains the clean kernel source with Halium patches. For the full Ubuntu Touch porting process to the Samsung Galaxy A11q, including documentation and logs, visit our [GitHub repository](https://github.com/luisvinatea/ubuntu-touch-a11q-port).
->>>>>>> 91a7ad5e78bb7485492004f504d1d388c277b35c
