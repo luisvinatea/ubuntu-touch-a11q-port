@@ -1,0 +1,7 @@
+# Ignore build artifacts
+*.o
+*.ko
+*.mod.c
+*.symvers
+.tmp_versions/
+build/
