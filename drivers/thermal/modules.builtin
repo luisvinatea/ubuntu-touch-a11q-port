@@ -1,0 +1,9 @@
+kernel/drivers/thermal/thermal_sys.ko
+kernel/drivers/thermal/qpnp-temp-alarm.ko
+kernel/drivers/thermal/qpnp-adc-tm.ko
+kernel/drivers/thermal/msm-tsens.ko
+kernel/drivers/thermal/tsens2xxx.ko
+kernel/drivers/thermal/tsens-dbg.ko
+kernel/drivers/thermal/tsens-mtc.ko
+kernel/drivers/thermal/tsens1xxx.ko
+kernel/drivers/thermal/tsens_calib.ko

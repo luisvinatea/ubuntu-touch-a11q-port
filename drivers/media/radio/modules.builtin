@@ -1,0 +1,2 @@
+kernel/drivers/media/radio/radio-iris.ko
+kernel/drivers/media/radio/radio-iris-transport.ko

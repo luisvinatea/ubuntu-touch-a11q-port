@@ -1,0 +1,11 @@
+kernel/drivers/clk/msm/clock.ko
+kernel/drivers/clk/msm/clock-dummy.ko
+kernel/drivers/clk/msm/clock-generic.ko
+kernel/drivers/clk/msm/clock-local2.ko
+kernel/drivers/clk/msm/clock-pll.ko
+kernel/drivers/clk/msm/clock-alpha-pll.ko
+kernel/drivers/clk/msm/clock-rpm.ko
+kernel/drivers/clk/msm/clock-voter.ko
+kernel/drivers/clk/msm/reset.ko
+kernel/drivers/clk/msm/clock-debug.ko
+kernel/drivers/clk/msm/gdsc.ko

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### **Environment Setup for Ubuntu Touch Porting on Fedora**
 
 This section documents the steps required to set up the build environment for porting Ubuntu Touch to the Galaxy A11q on Fedora.
@@ -72,3 +73,8 @@ For the clean kernel source with Halium patches, please visit our [GitLab reposi
 This repository focuses on the Ubuntu Touch porting process for the Samsung Galaxy A11q.
 
 Test sync update
+=======
+## Ubuntu Touch Porting Process
+
+This repository contains the clean kernel source with Halium patches. For the full Ubuntu Touch porting process to the Samsung Galaxy A11q, including documentation and logs, visit our [GitHub repository](https://github.com/luisvinatea/ubuntu-touch-a11q-port).
+>>>>>>> 91a7ad5e78bb7485492004f504d1d388c277b35c

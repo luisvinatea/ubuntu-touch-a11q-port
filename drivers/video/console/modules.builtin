@@ -1,0 +1,7 @@
+kernel/drivers/video/console/fbcon.ko
+kernel/drivers/video/console/bitblit.ko
+kernel/drivers/video/console/softcursor.ko
+kernel/drivers/video/console/fbcon_rotate.ko
+kernel/drivers/video/console/fbcon_cw.ko
+kernel/drivers/video/console/fbcon_ud.ko
+kernel/drivers/video/console/fbcon_ccw.ko

@@ -1,0 +1,9 @@
+kernel/drivers/soc/qcom/qpnp-pbs.ko
+kernel/drivers/soc/qcom/icnss.ko
+kernel/drivers/soc/qcom/wlan_firmware_service_v01.ko
+kernel/drivers/soc/qcom/subsys-pil-tz.ko
+kernel/drivers/soc/qcom/pil-q6v5.ko
+kernel/drivers/soc/qcom/pil-msa.ko
+kernel/drivers/soc/qcom/pil-q6v5-mss.ko
+kernel/drivers/soc/qcom/msm_performance.ko
+kernel/drivers/soc/qcom/wcnss/wcnsscore.ko
