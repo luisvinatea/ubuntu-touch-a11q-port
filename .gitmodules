@@ -1,0 +1,3 @@
+[submodule "github-clean"]
+	path = github-clean
+	url = https://github.com/luisvinatea/ubuntu-touch-a11q-port.git
