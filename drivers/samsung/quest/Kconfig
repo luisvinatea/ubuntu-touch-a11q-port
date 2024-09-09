@@ -1,2 +1,0 @@
-# This is a dummy Kconfig file to prevent build breaks in SoC which does not
-# use Quest.

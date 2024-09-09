@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### **Environment Setup for Ubuntu Touch Porting on Fedora**
 
 This section documents the steps required to set up the build environment for porting Ubuntu Touch to the Galaxy A11q on Fedora.

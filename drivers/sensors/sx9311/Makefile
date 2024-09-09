@@ -1,3 +1,0 @@
-
-obj-$(CONFIG_SENSORS_SX9311)		+= sx9311.o
-

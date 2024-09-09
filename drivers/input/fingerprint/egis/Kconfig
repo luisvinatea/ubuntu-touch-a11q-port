@@ -1,9 +1,0 @@
-#
-# egis fingerprint driver configuration
-#
-	  
-config EGIS_FINGERPRINT
-	tristate "egis fingerprint driver support"
-	select egis_fp
-	help
-	  This support egis fingerprint drivers.
